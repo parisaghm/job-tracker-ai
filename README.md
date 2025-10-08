@@ -1,113 +1,68 @@
-# Welcome to your project
+# 🌟 Job Tracker AI
 
-## Project info
+> An AI-powered job tracking dashboard that helps you organize your job applications, analyze resumes, and manage your career search efficiently.
 
-**URL**: 
+---
 
-## How can I edit this code?
+## 🚀 Live Demo
 
-There are several ways to edit and work on this project, depending on your setup and preferences.
+🔗 **Website:** [https://job-tracker-ai.vercel.app](https://job-tracker-ai.vercel.app)
 
-**Use your preferred IDE**
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🖼️ Preview
 
-**Use your preferred IDE**
+<img width="1911" height="961" alt="687980" src="https://github.com/user-attachments/assets/c97a3568-c9ca-45cb-9f7a-71ccd94a7f4f" />
+> *Dashboard view with analytics, resume analyzer, and task manager.*
 
-If you want to work locally using your own IDE (like VS Code, WebStorm, or IntelliJ), you can clone this repository and make changes directly.
+---
 
-The only requirement is having Node.js and npm installed —
-You can install Node easily using nvm - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 🧠 Features
 
-Follow these steps:
+- 📊 **Job Dashboard:** Track job applications and progress easily.  
+- 🧠 **AI Resume Analyzer:** Get personalized feedback on your resume.  
+- 💬 **Reminders & Notes:** Stay organized with built-in reminders.  
+- 🔐 **Login & Signup:** Secure local authentication simulation.  
+- ⚙️ **Modern Stack:** Built with Vite, React, TypeScript, and Tailwind CSS.  
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 🛠️ Tech Stack
 
-# Step 3: Install the necessary dependencies.
-npm i
+| Technology | Purpose |
+|-------------|----------|
+| ⚛️ **React** | UI framework |
+| 🧠 **TypeScript** | Type-safe JavaScript |
+| ⚡ **Vite** | Lightning-fast bundler and dev server |
+| 🎨 **Tailwind CSS** | Utility-first CSS styling |
+| 🧩 **ShadCN/UI** | Beautiful, accessible components |
+| 🤖 **OpenAI API (optional)** | AI-powered resume feedback |
+| 🪄 **Zod + React Hook Form** | Form validation and handling |
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+---
+
+## 🧩 Installation & Setup
+
+Follow these steps to set up the project locally:
+
+```bash
+# Step 1: Clone the repository
+git clone https://github.com/parisaghm/job-tracker-ai.git
+
+# Step 2: Navigate to the project directory
+cd job-tracker-ai
+
+# Step 3: Install dependencies
+npm install
+
+# Step 4: Run the app in development mode
 npm run dev
-```
 
-**Edit a file directly in GitHub**
+# Create a new branch
+git checkout -b feature/your-feature-name
 
-If you prefer making small changes without cloning the repo:
+# Make changes and commit
+git commit -m "feat: add new feature"
 
-. Navigate to the desired file(s).
-
-. Click the “Edit” button (✏️) at the top right of the file view.
-
-. Make your changes and click “Commit changes”.
-
-GitHub will automatically save your edits to the repository.
-
-**Use GitHub Codespaces**
-
-You can also edit and run the project directly in the cloud without installing anything locally:
-
-1.Go to your repository on GitHub.
-
-2.Click the “Code” button (green button near the top right).
-
-3.Select the “Codespaces” tab.
-
-4.Click “New codespace” to launch a development environment.
-
-5.You can now edit files, install packages, and run commands directly in the browser.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-⚡ Vite — Fast development environment and build tool.
-
-⚛️ React — Component-based frontend library.
-
-🧠 TypeScript — Strongly-typed JavaScript for better reliability.
-
-💅 Tailwind CSS — Utility-first CSS framework for styling.
-
-🧩 ShadCN/UI — Pre-built, accessible UI components for React.
-
-Optional integrations in your setup:
-
-🔧 Zod + React Hook Form — for robust form validation.
-
-🔔 Custom Toast System — for user notifications.
-
-🤖 OpenAI API — for AI-powered features like resume analysis.
-
-## How can I deploy this project?
-
-. [Vercel](https://vercel.com/parisaghasemi566gmailcoms-projects)
-. [Netlify](https://www.netlify.com/)
-. [Render](https://render.com/)
-. [Cloudflare Pages](https://pages.cloudflare.com/)
-
-Deployment Steps (Example: Vercel)
-
-1.Push your code to GitHub.
-
-2.Go to Vercel Dashboard.
-
-3.Import your GitHub repository.
-
-4.Configure build settings if needed (Vite auto-detected).
-
-5.Click Deploy 🚀
-
-Your app will be live in seconds with a shareable link.
-
-
-## Can I connect a custom domain?
-
-Yes, you can!
-If you’re using Vercel or Netlify, go to your project’s Domain Settings and click “Add Domain”.
-
-Then follow their step-by-step instructions to connect your custom domain (like yourname.dev).
+# Push to your fork and submit a PR
+git push origin feature/your-feature-name
