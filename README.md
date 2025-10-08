@@ -6,8 +6,7 @@
 
 ## 🚀 Live Demo
 
-🔗 **Website:** [https://job-tracker-ai-ten.vercel.app/login](https://job-tracker-ai-ten.vercel.app/login)
-
+🔗 URL: https://job-tracker-ai-ten.vercel.app/login
 ---
 
 ## 🖼️ Preview
