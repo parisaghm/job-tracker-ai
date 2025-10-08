@@ -13,7 +13,7 @@
 ## 🖼️ Preview
 
 <img width="1911" height="961" alt="687980" src="https://github.com/user-attachments/assets/c97a3568-c9ca-45cb-9f7a-71ccd94a7f4f" />
-> *Dashboard view with analytics, resume analyzer, and task manager.*
+ *Dashboard view with analytics, resume analyzer, and task manager.*
 
 ---
 
