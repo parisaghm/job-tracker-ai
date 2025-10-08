@@ -66,16 +66,16 @@ git commit -m "feat: add new feature"
 
 # Push to your fork and submit a PR
 git push origin feature/your-feature-name
-
 ```
 ---
 
 ## ⚙️ Environment Variables
 Create a .env file in the root directory and include:
 
+```bash
 OPENAI_API_KEY=your_api_key_here
 PORT=8787
-
+```
 ---
 
 ## 🧑‍💻 Contributing
@@ -83,6 +83,7 @@ PORT=8787
 Contributions are welcome!
 If you’d like to improve this project:
 
+```bash
 # Create a new branch
 git checkout -b feature/your-feature-name
 
@@ -91,7 +92,7 @@ git commit -m "feat: add new feature"
 
 # Push to your fork and submit a PR
 git push origin feature/your-feature-name
-
+```
 ---
 
 ## 📄 License
