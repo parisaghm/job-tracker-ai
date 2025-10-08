@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-🔗 **Website:** [[https://job-tracker-ai.vercel.app](https://job-tracker-ai.vercel.app](https://job-tracker-ai-ten.vercel.app/login))
+🔗 **Website:** [https://job-tracker-ai.vercel.app](https://job-tracker-ai.vercel.app](https://job-tracker-ai-ten.vercel.app/login))
 
 ---
 
@@ -67,6 +67,7 @@ git commit -m "feat: add new feature"
 # Push to your fork and submit a PR
 git push origin feature/your-feature-name
 
+```
 ---
 
 ## ⚙️ Environment Variables
