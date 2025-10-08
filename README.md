@@ -10,8 +10,6 @@ There are several ways to edit and work on this project, depending on your setup
 
 **Use your preferred IDE**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/bcc9b7c3-637c-4ec5-b0d9-5820c84459c9) and start prompting.
-
 Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
