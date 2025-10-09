@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-🔗 URL: [https://job-tracker-ai-ten.vercel.app/login](https://job-tracker-ai-ten.vercel.app/login)
+🔗 URL: [[https://job-tracker-ai-ten.vercel.app/login](https://job-tracker-ai-ten.vercel.app/login)](https://smartapply-ai.vercel.app/login)
 ---
 
 ## 🖼️ Preview
